@@ -22,7 +22,7 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 
 ---
 
-## 🔧 Idiomas e Ferramentas
+## 🔧 Linguagens | Frameworks | Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
