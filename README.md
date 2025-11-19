@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá! Eu sou o Samuel Cardoso</h1>
+<h1 align="left">👋 Olá! Eu sou Samuel Cardoso</h1>
 
 <p>
   <strong>Desenvolvedor Backend | Especializando-se em Desenvolvimento FullStack</strong>
