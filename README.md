@@ -33,14 +33,12 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
-  <img src="./odoo_logo.png" width="75"/>
+  <img src="./odoo_logo.svg" width="85"/>
 </p>
 
 ---
 ## 💼 Atualmente
 
-Atuo como **Desenvolvedor Python/Odoo**, trabalhando na construção de módulos, integrações, automações e fluxos completos para um sistema de compras por credenciamento das Secretarias de Saúde de alguns estados do Nordeste.
-
-Prezo pela ética profissional, responsabilidade e objetividade no trabalho para melhores resultados
+Trabalho como **Desenvolvedor Python/Odoo** pela Greenwave Tecnologia, trabalhando na construção de módulos, integrações, automações e fluxos completos para um sistema de compras por credenciamento das Secretarias de Saúde de alguns estados do Nordeste.
 
 ---
