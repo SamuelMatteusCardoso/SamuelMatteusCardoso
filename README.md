@@ -1,11 +1,11 @@
-<h1 align="left">👋 Opa! Eu sou o Samuel</h1>
+<h1 align="left">👋 Olá! Eu sou o Samuel Cardoso</h1>
 
 <p>
   <strong>Desenvolvedor Backend | Especializando-se em Desenvolvimento FullStack</strong>
 </p>
 
-Tenho 1 ano e meio de experiência desenvolvendo soluções com **Python** e **Odoo**, criando módulos, workflows, integrações e automações para processos internos.  
-Atualmente estou expandindo minha stack para **Node.js**, focando em backend moderno e APIs.
+Tenho 1 ano e meio de experiência desenvolvendo soluções com **Python** e **Odoo**, criando módulos, workflows, integrações e automações para processos internos.
+Atualmente estou expandindo minhas habilidades para **Node.js**, focando no ciclo completo de desenvolvimento.
 
 Sou movido por **produtividade**, **organização**, **boas práticas** e pelo prazer de resolver problemas com objetividade.
 
@@ -26,12 +26,14 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
+  <img src="./odoo_logo.png" width="75"/>
 </p>
 
 ---
