@@ -19,12 +19,11 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 
 <br/>
 
-## Formação Acadêmica
+## 📚 Formação Acadêmica
 
 🎓 **Graduado em Administração** | Faculdade Estácio Teresina (2016-2020)
 <br/>
 💻 **Concludente no Bacharelado em Engenharia de Software** | ICEV-Instituto de Ensino Superior(2022-2025)
-
 <br/>
 
 ---
@@ -40,7 +39,7 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45"/>
-  <img src="./odoo_logo.svg" width="85"/>
+  <img src="./odoo_logo.svg" width="95"/>
 </p>
 
 ---
