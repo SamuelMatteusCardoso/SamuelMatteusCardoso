@@ -4,8 +4,7 @@
   <strong>Desenvolvedor Backend | Especializando-se em Desenvolvimento FullStack</strong>
 </p>
 
-Tenho 1 ano e meio de experiência desenvolvendo soluções com **Python** e **Odoo**, criando módulos, workflows, integrações e automações para processos internos.
-Atualmente estou expandindo minhas habilidades para **Node.js**, focando no ciclo completo de desenvolvimento, possuo experiência com o uso de alguns frameworks de Python, como Streamlit e Odoo(v16+).
+Desenvolvedor desde 2024, atuo no desenvolvimento de soluções com Python e Odoo, estruturando módulos, fluxos de trabalho, integrações e automações orientadas a processos internos. Atualmente estou ampliando meu stack para Node.js, com foco no desenvolvimento full-stack, além de experiência prática com frameworks como Streamlit e Odoo (v16+)
 
 Sou movido por **produtividade**, **organização**, **boas práticas** e pelo prazer de resolver problemas com objetividade.
 
@@ -22,9 +21,9 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 
 ## Formação Acadêmica
 
-🎓 **Graduado em Administração** | Faculdade Estácio Teresina  
+🎓 **Graduado em Administração** | Faculdade Estácio Teresina (2016-2020)
 <br/>
-💻 **Concludente no Bacharelado em Engenharia de Software** | ICEV (Instituto de Ensino Superior)
+💻 **Concludente no Bacharelado em Engenharia de Software** | ICEV-Instituto de Ensino Superior(2022-2025)
 
 <br/>
 
