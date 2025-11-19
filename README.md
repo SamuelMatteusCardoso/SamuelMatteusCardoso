@@ -9,8 +9,6 @@ Atualmente estou expandindo minhas habilidades para **Node.js**, focando no cicl
 
 Sou movido por **produtividade**, **organização**, **boas práticas** e pelo prazer de resolver problemas com objetividade.
 
-<br/>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/samuel-mateus-cardoso/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -19,6 +17,16 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<br/>
+
+## Formação Acadêmica
+
+🎓 **Graduado em Administração** | Faculdade Estácio Teresina  
+<br/>
+💻 **Concludente no Bacharelado em Engenharia de Software** | ICEV (Instituto de Ensino Superior)
+
+<br/>
 
 ---
 
@@ -37,8 +45,8 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 </p>
 
 ---
-## 💼 Atualmente
+## 💼 Atuação Profissional
 
-Trabalho como **Desenvolvedor Python/Odoo** pela Greenwave Tecnologia, trabalhando na construção de módulos, integrações, automações e fluxos completos para um sistema de compras por credenciamento das Secretarias de Saúde de alguns estados do Nordeste.
+Trabalho como **Desenvolvedor Python/Odoo**, trabalhando na construção de módulos, integrações, automações e fluxos completos para um sistema de compras por credenciamento das Secretarias de Saúde de alguns estados do Nordeste.
 
 ---
