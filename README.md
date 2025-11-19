@@ -5,7 +5,7 @@
 </p>
 
 Tenho 1 ano e meio de experiência desenvolvendo soluções com **Python** e **Odoo**, criando módulos, workflows, integrações e automações para processos internos.
-Atualmente estou expandindo minhas habilidades para **Node.js**, focando no ciclo completo de desenvolvimento.
+Atualmente estou expandindo minhas habilidades para **Node.js**, focando no ciclo completo de desenvolvimento, possuo experiência com o uso de alguns frameworks de Python, como Streamlit e Odoo(v16+).
 
 Sou movido por **produtividade**, **organização**, **boas práticas** e pelo prazer de resolver problemas com objetividade.
 
