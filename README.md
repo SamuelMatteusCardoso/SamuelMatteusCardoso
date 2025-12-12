@@ -43,10 +43,17 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 </p>
 
 ---
-## 💼 Atuação Profissional
+## 💼 Experiência Profissional
 
-**Greenwave Tecnologia - Desenvolvedor Python/Odoo - [2024-present]:** 
-<br/>
-  • Atividades: Construção de módulos, integrações, automações e fluxos completos para um sistema de compras por credenciamento das Secretarias de Saúde de alguns estados do Nordeste.
+**Greenwave Tecnologia - Desenvolvedor Python/Odoo (2024 - presente)**
+
+  **Atividades principais:**  
+  - 🛠 Construção de módulos e fluxos completos no Odoo  
+  - 🔗 Integrações entre sistemas  
+  - ⚡ Automação de processos internos  
+  - 📊 Implementação de soluções para sistema de compras por credenciamento das Secretarias de Saúde de estados do Nordeste
+  
+  **Tecnologias utilizadas:**  
+  - Python / Odoo v16 / JavaScript
 
 ---
