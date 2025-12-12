@@ -45,7 +45,7 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 ---
 ## 💼 Atuação Profissional
 
-**[2024-present] - Greenwave Tecnologia - Desenvolvedor Python/Odoo:** 
+**Greenwave Tecnologia - Desenvolvedor Python/Odoo - [2024-present]:** 
 <br/>
   • Atividades: Construção de módulos, integrações, automações e fluxos completos para um sistema de compras por credenciamento das Secretarias de Saúde de alguns estados do Nordeste.
 
