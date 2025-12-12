@@ -4,7 +4,7 @@
   <strong>Desenvolvedor Backend | Especializando-se em Desenvolvimento FullStack</strong>
 </p>
 
-Desenvolvedor desde 2024, atuo no desenvolvimento de soluções com Python e Odoo, estruturando módulos, fluxos de trabalho, integrações e automações orientadas a processos internos. Atualmente estou ampliando meu stack para Node.js, com foco no desenvolvimento full-stack, além de experiência prática com frameworks como Streamlit e Odoo (v16+)
+Desenvolvedor desde 2024, atuo no desenvolvimento de soluções com Python e Odoo, além de ter  experiência prática com frameworks como Streamlit e Odoo (v16+), estruturando módulos, fluxos de trabalho, integrações e automações orientadas a processos internos. Atualmente estou ampliando minhas habilidades, com foco no desenvolvimento full-stack.
 
 Sou movido por **produtividade**, **organização**, **boas práticas** e pelo prazer de resolver problemas com objetividade.
 
