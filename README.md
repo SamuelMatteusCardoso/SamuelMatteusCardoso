@@ -21,9 +21,9 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 
 ## 📚 Formação Acadêmica
 
-🎓 **Graduado em Administração** | Faculdade Estácio Teresina (2016-2020)
+💻 **Bacharel em Engenharia de Software** | ICEV-Instituto de Ensino Superior(2022-2025)
 <br/>
-💻 **Concludente no Bacharelado em Engenharia de Software** | ICEV-Instituto de Ensino Superior(2022-2025)
+🎓 **Bacharel em Administração** | Faculdade Estácio Teresina (2016-2020)
 <br/>
 
 ---
