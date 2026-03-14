@@ -1,7 +1,7 @@
 <h1 align="left">👋 Olá! Eu sou Samuel Cardoso</h1>
 
 <p>
-  <strong>Desenvolvedor Backend | Especializando-se em Desenvolvimento FullStack</strong>
+  <strong>Desenvolvedor</strong>
 </p>
 
 Desenvolvedor desde 2024, atuo no desenvolvimento de soluções com Python e Odoo, além de ter  experiência prática com frameworks como Streamlit e Odoo (v16+), estruturando módulos, fluxos de trabalho, integrações e automações orientadas a processos internos. Atualmente estou ampliando minhas habilidades, com foco no desenvolvimento full-stack.
@@ -55,7 +55,7 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 
 **Tecnologias utilizadas:**  
 - Python (v3.10)
-- Odoo (v16)
+- Odoo (v16 / v19)
 - JavaScript
 
 
