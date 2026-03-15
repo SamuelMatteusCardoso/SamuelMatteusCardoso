@@ -47,9 +47,10 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 
 ### Greenwave Tecnologia - Desenvolvedor Jr. (2024 - presente)
 
-**Atividades principais:**
+**Atividades principais e entregas:**
   - 🛠 Construção de módulos e fluxos completos no Odoo
-  - 🔗 Integrações entre sistemas
+  - 🔗 Integrações entre sistemas: Desenvolvi um módulo de HelpDesk integrado ao Jira via API REST: usuários abrem chamados no Odoo e as issues são criadas automaticamente no Jira,
+    centralizando o fluxo de suporte sem necessidade de acesso duplo a sistemas.
   - ⚡ Automação de processos internos
   - 📊 Implementação de soluções para sistema de compras por credenciamento das Secretarias de Saúde de estados do Nordeste
 
