@@ -45,14 +45,14 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 ---
 ## 💼 Experiência Profissional
 
-### Greenwave Tecnologia - Desenvolvedor Pleno. (2024 - presente)
+### Greenwave Tecnologia - Desenvolvedor Pleno (2024 - presente)
 
 **Atividades principais e entregas:**
   - 🛠 Construção de módulos e fluxos completos no Odoo
   - 🔗 Integrações entre sistemas: Desenvolvi um módulo de HelpDesk integrado ao Jira via API REST: usuários abrem chamados no Odoo e as issues são criadas automaticamente no Jira,
     centralizando o fluxo de suporte sem necessidade de acesso duplo a sistemas.
   - ⚡ Automação de processos internos
-  - 📊 Implementação de soluções para sistema de compras por credenciamento das Secretarias de Saúde de estados do Nordeste
+  - 📊 Implementação de soluções para sistema de compras por credenciamento das Secretarias de Saúde e de Segurança Pública de estados do Nordeste
 
 **Tecnologias utilizadas:**  
 - Python (v3.10)
