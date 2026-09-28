@@ -45,7 +45,7 @@ Sou movido por **produtividade**, **organização**, **boas práticas** e pelo p
 ---
 ## 💼 Experiência Profissional
 
-### Greenwave Tecnologia - Desenvolvedor Jr. (2024 - presente)
+### Greenwave Tecnologia - Desenvolvedor Pleno. (2024 - presente)
 
 **Atividades principais e entregas:**
   - 🛠 Construção de módulos e fluxos completos no Odoo
